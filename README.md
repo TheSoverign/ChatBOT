@@ -8,6 +8,9 @@
 
 The Healthcare AI Chatbot is a conversational agent designed to assist users with various medical inquiries. Utilizing advanced natural language processing (NLP) and integration with PubMed's E-utilities, the bot provides information and general guidance on medical issues, symptoms, and treatments.
 
+This project is developed by **Taran Dhingra** as part of the requirements for the 5th semester.
+
+
 ## Features
 
 - **Conversational Interface**: Engage in natural conversations about health concerns.
